@@ -1,6 +1,10 @@
 ﻿End of the Line
 ===============
 
+## 说明
+当前Release修改了下工程包引用和发布目标，让它支持vs2022. 
+
+===============
 _End of the Line_ is a Visual Studio extension that shows end of line markers
 in text editor allowing users to differentiate between CR LF and LF line
 endings.
